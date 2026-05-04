@@ -1,0 +1,22 @@
+{
+    "dictionary": {
+        "c": {
+            "tiurim": [
+                {
+                    "column": "2",
+                    "line": "3",
+                    "text": "tiurim.avilS.XiS"
+                }
+            ]
+        }
+    },
+    "word_index": {
+        "tiurim.avils.xis": {
+            "2": {
+                "3": [
+                    1
+                ]
+            }
+        }
+    }
+}
