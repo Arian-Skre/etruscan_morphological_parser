@@ -4,20 +4,18 @@
 
 -------------------------------------------------------------------------------------------------------
 
-* v0.0.6
+* v0.0.7
 Current implemented systems:
 lexical entry storage
 alphabetical organization
 numeral parsing
+tokenization system
+initial stem extraction
+parsing preparation utilities
 
 -------------------------------------------------------------------------------------------------------
 
 Planned Next Versions:
-
-* v0.0.7
-tokenization system
-initial stem extraction
-parsing preparation utilities
 
 * v0.0.8
 stem + suffix decomposition
