@@ -28,7 +28,7 @@ The long-term goal of the project is to establish a rigorous computational frame
 
 -------------------------------------------------------------------------------------------------------
 
-* Current Version: v0.0.6
+* Current Version: v0.0.7
 
 -------------------------------------------------------------------------------------------------------
 
@@ -40,6 +40,8 @@ Implemented systems currently include:
 - Etruscan numeral parsing
 - JSON-based lexical data handling
 - structured corpus preparation utilities
+- word tokenization
+- stem extraction
 
 Although still in early development, the repository is being structured as long-term research infrastructure rather than an isolated parsing experiment.
 
@@ -48,8 +50,6 @@ Although still in early development, the repository is being structured as long-
 * Planned Functionality:
 
 Near-Term Goals:
-- word tokenization
-- stem extraction
 - suffix decomposition
 - number suffix parsing
 - case suffix parsing
