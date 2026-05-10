@@ -12,6 +12,7 @@
 
 - JSON
 - TXT
+- CSV
 
 * Planned Data Systems:
 
