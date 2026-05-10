@@ -1,23 +1,19 @@
 
 
 												*** Development Roadmap ***
-
+												
 -------------------------------------------------------------------------------------------------------
 
-* v0.0.6
-Current implemented systems:
-lexical entry storage
-alphabetical organization
-numeral parsing
-
--------------------------------------------------------------------------------------------------------
-
-Planned Next Versions:
+Current Version:
 
 * v0.0.7
 tokenization system
 initial stem extraction
 parsing preparation utilities
+
+-------------------------------------------------------------------------------------------------------
+
+Future Versions:
 
 * v0.0.8
 stem + suffix decomposition
