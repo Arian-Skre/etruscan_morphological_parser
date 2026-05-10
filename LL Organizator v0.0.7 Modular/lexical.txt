@@ -1,0 +1,22 @@
+Column 1
+C1.L1.1zixri -- From Cl 1.320, "book, script", Ta 1.17 "ziX.ne0Srac; liber haruspicinus", therefore, verb; "to write/it is written"
+
+C1.L1.2epa -- Occurs again in C10.23, ?noun? ?"banquet, feast"?
+
+C1.L1.3fira -- possible root in C7 "fir-" Appears in Tomb 5069 at Tarquinia 
+"mlaX.ca.Scuna.fira.hin0u", ?"sacrificial symposium"?
+
+C1.L2.1 versum -- hapax, ?adjective?, (suffix present on ie. trinum, trutum. Vdm proposes an enclitic conjunction for the suffix) From Festus, p. 17L; p. 18/5) "the fire ?moreover?"
+
+C1.L2.2 - spanza -- diminutive of spanti (suffix -za denotes diminutives). Spanti appears in five inscriptions from Cerveteri (Cr. 2.1-4; mi.spanti.nuzinaia, mi.spanti.larices etc. {I am the spanti of x}) "a little dish"
+
+C1.L3.1 - etraSa -- stem: "etr(a)+", suffix: "Sa" (cf. trutanaSa). ?"verb"?, ?"adjective"?. Appears in similar form on 5.c.BC. bronze sheet from Cerveteri: "eta.0esan.etras.uniia0i.{missing}.hutilatina.etiasas.acalia.{missing}.0anaXvilus.ca0arnaial" Glossed as: "This Thesan (Aurora)(daughter) of Etra (Gr. Aithra) in the sanctuary of Uni; during the fourth day etiasa (Idus?) of/in June (possible) of Thanachvil Catharnaia" Appears also in a lead sheet from Vulci (ca. 450-400 BC.): "uni.cel.etra.{missing}.uSesl.nva.ser.{missing}" Theonyms appear: Uni, Cel, Etra, and Usil. etraSa may appear in different forms: e0rsi,e0rse (C2.n2), e0ri (11.3), etrin0i (12.5). Possibly related to etera, a place in a tomb (C10.22). Personally, as it appears in contexts of birth (Uni, Cel), light (Aurora, Usil), and, overarching, an emergence, I find it to be a lexical unit denoting something within something, or something emerging from something. Possibly a ritual specific term.
+
+C1.L4.1 - ziXri, same as 1.1
+
+1.4.2-3 - cn.0unt, cn: "this", not dependent on ziXri. 0unt may be a participle of verb 0un (to do first, firstly). The syntagm might be similar to cntnam.0esan: do the same during the morning / during the same morning. It is unclear if 0unt has any relation to 0un.lurs0 (firstly, in the area of Lur{theonym}). Might be indicative of the gall bladder as a similar syntagm appears on the Piacenza Liver. 
+
+C1.L5.1 - {missing}uXti0ur, most likely refers to the name of a priestly college, but the word is incomplete. 
+
+Column 2
+C2.L1.1/C2.L2.1-3 - SacnicstreS.cil0S.SpureStreSc.enaS; "by/for the sacred place and for/of our civitas" 
